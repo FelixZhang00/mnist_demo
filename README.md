@@ -14,6 +14,6 @@ or visit this [demo](http://felixzhang00.github.io/DL/mnist/) directly.
 
 ### Screenshot
 same as [convnetjs](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
-![](http://ww1.sinaimg.cn/large/8b331ee1gw1fb8kq6nxncj218q0wg13f.jpg)
+![](https://raw.githubusercontent.com/FelixZhang00/mnist_demo/master/screenshot/ss1.jpg)
 
-![](http://ww4.sinaimg.cn/large/8b331ee1gw1fb8kqctiw0j218u0m6jv8.jpg)
+![](https://github.com/FelixZhang00/mnist_demo/blob/master/screenshot/ss2.jpg)
